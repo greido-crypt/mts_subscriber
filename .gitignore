@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv/
+.env
+
+# Python кеш
+__pycache__/
+*.pyc
+*.pyo
+
+# Настройки редакторов
+.idea/
+.vscode/
+
+# Логи и временные файлы
+logs/
+*.log
+*.sqlite3
+
+# Упаковка
+dist/
+build/
+utils/dict_cookies_to_text.py
